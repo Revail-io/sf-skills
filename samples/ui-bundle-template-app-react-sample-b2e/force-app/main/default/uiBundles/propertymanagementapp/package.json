@@ -68,7 +68,7 @@
     "typescript-eslint": "^8.46.4",
     "vite": "^7.2.4",
     "vite-plugin-graphql-codegen": "^3.6.3",
-    "vitest": "^4.0.17"
+    "vitest": "^4.1.11"
   },
   "overrides": {
     "lodash": "^4.18.1"
