@@ -44,7 +44,7 @@
     "@graphql-codegen/typescript": "^5.0.6",
     "@graphql-codegen/typescript-operations": "^5.0.6",
     "@graphql-eslint/eslint-plugin": "^4.1.0",
-    "@graphql-tools/utils": "^11.0.0",
+    "@graphql-tools/utils": "^13.2.0",
     "@playwright/test": "^1.49.0",
     "@salesforce/vite-plugin-ui-bundle": "^10.2.2",
     "@testing-library/jest-dom": "^6.6.3",
